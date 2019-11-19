@@ -1,9 +1,20 @@
+# Terraform files:
 #  Local .terraform directories
 **/.terraform/*
-
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
 # .tfvars files
 *.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*tfplan*
+
+# MacOS files
+.DS_Store
+# Windows thumb files
+Thumbs.db
+# Webstorm files
+.idea

@@ -1,0 +1,11 @@
+{
+  "Owner":"Owner-name",
+  "Author":"you@my-company",
+  "Created_by": "Packer",
+  "OS_version": "ubuntu",
+  "Environment": "dev",
+  "Server_role":"nginx-1.17.6",
+  "Application_name":"Application_name",
+  "Application_build":"v1.01",
+  "AMI_Health_Verification":"Bake_successful"
+}
